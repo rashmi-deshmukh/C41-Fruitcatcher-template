@@ -125,7 +125,8 @@ class Game{
                           
                       }
                   }
-
+      
+  
     }
 
     end(){
